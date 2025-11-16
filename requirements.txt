@@ -1,0 +1,8 @@
+# PyReVanced Dependencies
+# Python 3.8+ required
+
+# Optional dependencies for enhanced functionality
+psutil>=5.9.0          # System monitoring and resource usage
+
+# Note: tkinter is included with Python standard library
+# Java 8+ is required for ReVanced CLI functionality
